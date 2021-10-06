@@ -1,0 +1,14 @@
+<environmentvariabledefinition schemaname="crc98_ListNewNEw">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <displayname default="ListNewNEw">
+    <label description="ListNewNEw" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>table</parameterkey>
+  <parentdefinitionid>
+    <schemaname>crc98_SiteNewNEw</schemaname>
+  </parentdefinitionid>
+  <type>100000004</type>
+</environmentvariabledefinition>
